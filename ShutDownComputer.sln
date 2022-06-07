@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShutDownComputer", "ShutDownComputer\ShutDownComputer.csproj", "{D6C7E205-911E-46D9-82DE-78E97B211490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Debug|x64.ActiveCfg = Debug|x64
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Debug|x64.Build.0 = Debug|x64
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Debug|x86.ActiveCfg = Debug|x86
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Debug|x86.Build.0 = Debug|x86
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Release|x64.ActiveCfg = Release|x64
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Release|x64.Build.0 = Release|x64
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Release|x86.ActiveCfg = Release|x86
+		{D6C7E205-911E-46D9-82DE-78E97B211490}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34DF9E28-A593-4DE2-826D-D8E3A0822F80}
+	EndGlobalSection
+EndGlobal
