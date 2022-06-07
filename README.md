@@ -1,5 +1,5 @@
 # SDTC by tr1ckshxt
-## Shut down computer timer
+## Shut down computer timer [Download Link x86-x64](https://www.mediafire.com/file/x818pke6j8tl5be/ShutDownComputerTimer_v2.0.rar/file)
 
 Привет, меня зовут Макс, но чаще меня можно заметить под ником tr1ckshxt! Ранее данная идея была реализована в консоли,
 теперь я открыл для себя WinForms и могу порадовать пользователей адекватным интерфейсом.
